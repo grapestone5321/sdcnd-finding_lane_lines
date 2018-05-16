@@ -44,14 +44,16 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 One potential shortcoming would be what would happen when ... 
 
+Optional Challenge part is not comleted yet
+
 Another shortcoming could be ...
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to ...
+A possible improvement would be to workon curvy lanes by completing Optional Challenge.
 
-Another potential improvement could be to ...
+Another potential improvement could be to 
 
 
 
