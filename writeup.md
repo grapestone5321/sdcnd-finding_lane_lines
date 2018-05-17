@@ -51,7 +51,7 @@ Another shortcoming could be ...
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to workon curvy lanes by completing Optional Challenge.
+A possible improvement would be to work on curvy lanes by completing Optional Challenge.
 
 Another potential improvement could be to 
 
