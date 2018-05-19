@@ -32,7 +32,7 @@ The pipeline consisted of 5 steps.
 5. Hough Tranform line detection is applied.
 
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
+In order to draw a single line on the left and right lanes, I modified the draw_lines() function by getting the slopes of left lane line and right lane line
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
