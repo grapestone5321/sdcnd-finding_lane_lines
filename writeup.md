@@ -32,28 +32,15 @@ The pipeline consisted of 5 steps.
 5. Hough Tranform line detection is applied.
 
 
-In order to draw a single line on the left and right lanes, I modified the draw_lines() function by getting the slopes of left lane line and right lane line
-
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
-
-![alt text][image1]
+In order to draw a single line on the left and right lanes, I modified the draw_lines() function by getting the slopes of left lane line and right lane line.
 
 
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be what would happen when ... 
-
-Optional Challenge part is not comleted yet
-
-Another shortcoming could be ...
+One potential shortcoming would be what would happen when the lanes are curvy. 
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to work on curvy lanes by completing Optional Challenge.
-
-Another potential improvement could be to 
-
-
-
+Optional Challenge is not comleted yet. A possible improvement would be to work on curvy lanes by completing the Challenge.
